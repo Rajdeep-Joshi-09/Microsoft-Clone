@@ -23,7 +23,7 @@ You can view the live project here:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Rajdeep-Joshi-09/Microsoft-Clone.git
    ```
 2. Navigate to the project folder:
    ```bash
